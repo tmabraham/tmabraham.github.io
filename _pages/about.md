@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Tanishq"
+excerpt: "About Tanishq"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Due to my curiosity and passion for learning, started my first college campus classes at 7-years-old. Later on graduated from high school at 10-years-old while simultaneously taking college classes. At 11-years old graduated with 3 Associate Degrees and by 12 years old was accepted as a transfer student (3rd year) to two neighboring universities UC Davis and UC Santa Cruz (Regents Scholar). Due to my love for all fields of science (biology, physics, chemistry etc) and math, I completed a Bachelor's degree in biomedical engineering at UC Davis at the age of 14 years old. At 15 years old, I started my PhD in biomedical engineering also at UC Davis. In 2019, I joined Dr. Richard Levenson's Lab. My research is focused on applying deep learning to pathology.
+Tanishq Abraham is considered a child genius and a prodigy. He graduated high school at 10 years old with a 4.0 GPA and at 11 he obtained 3 college Associate Degrees also with a perfect 4.0 GPA. When he was 14, he finished his biomedical engineering program. He graduated from University of California, Davis with summa cum laude becoming the youngest biomedical engineer. As an undergrad, he has presented papers at several conferences. At 14, he was the first author on a review paper about smart bio-inspired vesicles and it's biomedical engineering applications published in IOP Physical Biology.
 
+Tanishq joined his PhD program at 15. By 16, he became a published book chapter author in the book "Artificial Intelligence and Deep Learning in Pathology". Now at 17, he is a 2nd year PhD student in biomedical engineering at UC Davis. He has worked for a year in the Levenson lab at UC Davis on applying deep learning to novel microscopy techniques in order to enable digital pathology applications. His recent conference was presenting his PhD research at the ICML2020 Computational Biology workshop. Tanishq has also reviewed few books that includes two science fiction books and recently a machine learning book.
 
-I am self-motivated, curious about the mechanics of things, a passionate learner, goal setter (and achieving those goals!), a hard-worker and an over-achiever. Enjoy all things science, technology, politics and sports. Love to interact and talk with people. And a role model for young and old students!
-
+Tanishq is self-motivated, curious about the mechanics of things, a passionate learner, goal setter (and achieving those goals!), a hard-worker and an over-achiever. He enjoys all things science, technology, politics, movies and sports. Loves to interact and talk with people. Tanishq has appeared on many international and national TV, radio and print news, TV and radio talk shows, realty TV shows and documentary shows. He is a role model for young and old students!
