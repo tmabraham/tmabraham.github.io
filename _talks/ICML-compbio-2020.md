@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/icml-compbio-2020
 venue: "ICML Computational Biology Workshop 2020"
-date: 2020-08-28
+date: 2020-07-17
 location: "Conference Online"
 ---
 [Link to paper](https://icml-compbio.github.io/2020/papers/WCBICML2020_paper_67.pdf)
