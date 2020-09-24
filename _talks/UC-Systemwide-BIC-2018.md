@@ -1,5 +1,5 @@
 ---
-title: "Whole‐Body Mathematical Models of Liposomes"
+title: "CardioVsision: Non-contact Heart Rate Monitoring of Burn Patientss"
 collection: talks
 type: "Talk"
 permalink: /talks/UC-systemwide-BIC-2018
