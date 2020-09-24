@@ -8,4 +8,4 @@ date: 2017-06-10
 location: "University of California, Los Angeles"
 ---
 
-Poster will be added soon.
+Abstract to be added.

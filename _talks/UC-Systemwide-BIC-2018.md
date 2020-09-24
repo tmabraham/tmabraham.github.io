@@ -1,5 +1,5 @@
 ---
-title: "CardioVsision: Non-contact Heart Rate Monitoring of Burn Patientss"
+title: "CardioVision: Non-contact Heart Rate Monitoring of Burn Patients"
 collection: talks
 type: "Talk"
 permalink: /talks/UC-systemwide-BIC-2018
