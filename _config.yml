@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tanishq Abraham"
 title_separator          : "-"
 name                     : &name "Tanishq Abraham"
-description              : &description "17 year old BME PhD student at UC Davis"
+description              : &description "18 year old BME PhD candidate at UC Davis"
 url                      : https://tmabraham.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tmabraham/tmabraham.github.io"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tanishq Abraham"
+  name             : "Tanishq Mathew Abraham"
   avatar           : "profile.jpg"
-  bio              : "17 year old BME PhD student at UC Davis. A member of the Levenson Lab. Focused on applying deep learning to pathology."
+  bio              : "18 year old BME PhD candidate. A member of the Levenson Lab. Focused on applying deep learning to pathology."
   location         : "Sacramento, California"
-  employer         :
+  employer         : "UC Davis"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=hIyhkfQAAAAJ&hl=en"
   email            : "tmabraham@ucdavis.edu"
@@ -99,7 +99,7 @@ author:
   github           : "tmabraham"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "biomedengineerat14"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "tanishq-abraham-prodigy"

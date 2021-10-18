@@ -10,4 +10,7 @@ main:
     url: /teaching/   
     
   - title: "Curriculum Vitae"
-    url: /files/cv.pdf
+    url: /cv.pdf
+
+  - title: "Blog"
+    url: /blog
