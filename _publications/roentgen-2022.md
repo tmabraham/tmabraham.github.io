@@ -1,3 +1,4 @@
+---
 title: "RoentGen: Vision-Language Foundation Model for Chest X-ray Generation"
 collection: publications
 permalink: /publication/roentgen-2022.md
