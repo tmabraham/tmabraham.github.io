@@ -1,7 +1,7 @@
 ---
 title: "RoentGen: Vision-Language Foundation Model for Chest X-ray Generation"
 collection: publications
-permalink: /publication/roentgen-2022.md
+permalink: /publication/roentgen-2022
 excerpt: 'We present evidence that the resulting model (RoentGen) is able to create visually convincing, diverse synthetic CXR images, and that the output can be controlled to a new extent by using free-form text prompts including radiology-specific language.'
 date: 2022-11-23
 venue: 'arXiv'
