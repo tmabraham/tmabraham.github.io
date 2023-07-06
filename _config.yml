@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tanishq Mathew Abraham"
+title                    : "Dr. Tanishq Mathew Abraham"
 title_separator          : "-"
-name                     : &name "Tanishq Mathew Abraham"
-description              : &description "19 year old BME PhD candidate at UC Davis, Part-time employee at Stability AI"
+name                     : &name "Dr. Tanishq Mathew Abraham"
+description              : &description "20 year old BME PhD from UC Davis, Part-time employee at Stability AI"
 url                      : https://www.tanishq.ai # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tmabraham/tmabraham.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Tanishq Mathew Abraham"
   avatar           : "profile.jpg"
-  bio              : "19 year old BME PhD candidate at UC Davis. A member of the Levenson Lab. Founding CEO of MedARC. Part-time @ Stability AI. Applying deep learning to medicine."
+  bio              : "20 year old BME PhD from UC Davis. Founding CEO of MedARC. Part-time @ Stability AI. Former member of the Levenson Lab. Applying generative AI to medicine."
   location         : "Sacramento, California"
-  employer         : "UC Davis"
+  employer         : "MedARC"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=hIyhkfQAAAAJ&hl=en"
   email            : "tmabraham@ucdavis.edu"
