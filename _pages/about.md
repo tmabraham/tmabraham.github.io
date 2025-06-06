@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a 21-year-old medical and generative AI researcher. 
+
+I am a 21-year-old medical and generative AI researcher and CEO of [Sophont](https://sophontai.com), a company building open-source multimodal medical foundation models.
 
 I graduated at 19 years old with a Ph.D. in Biomedical Engineering from the University of California, Davis. I was under the supervision of Dr. Richard Levenson at the UC Davis Department of Pathology and Laboratory Medicine. I was researching the application of deep learning (especially generative AI) to novel microscopy techniques for digital pathology. I have presented my work at several conferences (SPIE Photonics West, ICML workshop, BMES, etc.), published a book chapter, established various collaborations with labs around the world, and more. I have contributed to many open-source projects, including being on the founding team for [DALL-E mini](https://github.com/borisdayma/dalle-mini), being a frequent contributor to the [fastai library](https://github.com/fastai/fastai). I am also involved in various teaching initiatives, being a teaching assistant for Part 1 and instructor for Part 2 of the [2022 fast.ai course](https://course.fast.ai).
 
